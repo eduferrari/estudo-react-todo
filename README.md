@@ -1,3 +1,3 @@
 # Projeto de TODO
 
-Projeto simples de todo usando react, nada muito complexo, feito apenas para aprender a linguagem
+Projeto simples de TODO usando react, nada muito complexo, feito apenas para aprender a linguagem
